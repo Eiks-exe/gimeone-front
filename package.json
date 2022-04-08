@@ -20,7 +20,7 @@
     "react-dom": "18.0.0",
     "react-hook-form": "^7.29.0",
     "react-scroll": "^1.8.6",
-    "react-spring": "^9.4.4",
+    "react-spring": "^9.4.5-beta.0",
     "validator": "^13.7.0",
     "yup": "^0.32.11"
   },
